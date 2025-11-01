@@ -28,7 +28,8 @@ This repository showcases my end-to-end analytics projects, where I’ve worked 
 ---
 
 ### 💳 2️⃣ Credit & Debit Analytics
-**Tools:** Excel | SQL | Power BI | Tableau **Objective:** To understand customer transaction patterns and credit-debit flow.  
+**Tools:** Excel | SQL | Power BI | Tableau
+**Objective:** To understand customer transaction patterns and credit-debit flow.  
 
 **Highlights:**
 - Cleaned raw data using Excel formulas and validation tools  
