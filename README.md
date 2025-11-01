@@ -7,9 +7,6 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 
 ---
 
-
----
-
 ## 🧠 Tools & Skills Used
 - **Excel:** Data cleaning, formulas, pivot tables, dashboards  
 - **SQL:** Data querying, joins, CTEs, filtering, aggregations  
@@ -21,7 +18,7 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 ## 📂 Projects Overview
 
 ### 🏦 1️⃣ Bank Data Analytics
-**Tools:** SQL, Power BI, Excel, Tableau  
+**Tools:** SQL | Power BI | Excel | Tableau  
 **Objective:** To analyze debit and credit transactions and identify financial trends and insights.  
 
 **Highlights:**
@@ -29,14 +26,10 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 - Created KPIs such as Total Debit, Total Credit, Active Customers, and Transaction Count  
 - Developed interactive dashboards to track performance across regions and time  
 
-📊 Power BI Dashboard: *[Add Power BI link here]*  
-📈 Tableau Dashboard: *[Add Tableau Public link here]*  
-📘 Dataset: `Bank Data Analytics.xlsx`
-
 ---
 
 ### 💳 2️⃣ Credit & Debit Analytics
-**Tools:** Excel, SQL, Power BI, Tableau
+**Tools:** Excel | SQL | Power BI | Tableau
 **Objective:** To understand customer transaction patterns and credit-debit flow.  
 
 **Highlights:**
@@ -44,6 +37,5 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 - Used SQL queries for filtering and aggregating data  
 - Visualized monthly spending patterns and KPIs  
 
-📘 Dataset: `Debit_Credit_data.xlsx"`
 ---
 
