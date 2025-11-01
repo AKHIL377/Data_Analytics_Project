@@ -19,6 +19,7 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 
 ### 🏦 1️⃣ Bank Data Analytics
 **Tools:** SQL | Power BI | Excel | Tableau  
+
 **Objective:** To analyze debit and credit transactions and identify financial trends and insights.  
 
 **Highlights:**
