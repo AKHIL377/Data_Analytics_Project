@@ -3,8 +3,7 @@
 
 ## 👋 About Me
 I’m an aspiring **Data Analyst** skilled in **Excel, SQL, Power BI, and Tableau**.  
-This portfolio showcases my analytics projects — covering data cleaning, exploration, visualization, and insight generation using real-world datasets.
-
+This repository showcases my end-to-end analytics projects, where I’ve worked on real-world datasets to perform **data cleaning, analysis, visualization, and insight generation**.
 ---
 
 ## 🧠 Tools & Skills Used
@@ -19,7 +18,6 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 
 ### 🏦 1️⃣ Bank Data Analytics
 **Tools:** SQL | Power BI | Excel | Tableau  
-
 **Objective:** To analyze debit and credit transactions and identify financial trends and insights.  
 
 **Highlights:**
@@ -30,13 +28,11 @@ This portfolio showcases my analytics projects — covering data cleaning, explo
 ---
 
 ### 💳 2️⃣ Credit & Debit Analytics
-**Tools:** Excel | SQL | Power BI | Tableau
-**Objective:** To understand customer transaction patterns and credit-debit flow.  
+**Tools:** Excel | SQL | Power BI | Tableau **Objective:** To understand customer transaction patterns and credit-debit flow.  
 
 **Highlights:**
 - Cleaned raw data using Excel formulas and validation tools  
 - Used SQL queries for filtering and aggregating data  
-- Visualized monthly spending patterns and KPIs  
-
+- Visualized monthly spending patterns and KPIs
+ 
 ---
-
