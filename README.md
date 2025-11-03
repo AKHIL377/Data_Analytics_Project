@@ -35,5 +35,3 @@ This repository showcases my end-to-end analytics projects, where I’ve worked 
 - Cleaned raw data using Excel formulas and validation tools  
 - Used SQL queries for filtering and aggregating data  
 - Visualized monthly spending patterns and KPIs
- 
----
